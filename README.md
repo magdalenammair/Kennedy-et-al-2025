@@ -4,7 +4,7 @@
 
 This repository provides all data and R code for
 
-**Kennedy, S. B., Vital, A. L. A., Kukkola, A., Miller, E., Yeh, A., Coffin, S., Ahmed, T. K., Bertrand, L., Barrick, A., Cowger, W., Mair, M. M., & Doyle, D. (2025). Trends in Quality and Risk Assessment Applicability of Microplastic Ecotoxicity Studies. *Journal of Hazardous Materials Advances*, 100942. [https://doi.org/10.1016/j.hazadv.2025.100942](https://doi.org/10.1016/j.hazadv.2025.100942 ).**
+**Kennedy SB, Antonio Vital AL, Kukkola A, Miller E, Yeh A, Coffin S, Ahmed TK, Bertrand L, Barrick A, Cowger W, Mair MM, & Doyle D. (2025). Trends in Quality and Risk Assessment Applicability of Microplastic Ecotoxicity Studies. *Journal of Hazardous Materials Advances*, 100942. [https://doi.org/10.1016/j.hazadv.2025.100942](https://doi.org/10.1016/j.hazadv.2025.100942 ).**
 
 ---
 
